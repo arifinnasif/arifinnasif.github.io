@@ -4,9 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(() => {
+            $("#para").click(() => {
+                $("h1").addClass("test");
+            })
+        })
+    </script>
+
     <title>Welcome!</title>
 </head>
 <body>
-    Hello World!
+    <h1>
+        Hello World!
+    </h1>
+    <div>
+        <p id="para">
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure maxime quam labore sequi dolores rerum voluptas ab vitae nostrum quia eligendi expedita error, doloribus soluta assumenda veritatis distinctio sapiente minima.
+        </p>
+    </div>
 </body>
+
 </html>
