@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "C Compiler for Intel 8086"
+date:   2022-05-29 22:21:59 +00:00
+image: /images/compiler.png
+categories: project
+author: "Sultanul Arifin"
+authors: "<strong>Sultanul Arifin</strong>"
+# venue: "arXiv"
+# arxiv: https://arxiv.org/abs/2308.14737
+# report: https://drive.google.com/file/d/1fBCY8X-y222cb55degXKZT0DCsi-IgmK/view?usp=drive_link
+code: https://github.com/arifinnasif/CSE310_Compiler_Sessional
+# website: https://tradespaceapp.netlify.app
+# supervisor: Md Toufikuzzaman (BUET, Pennsylvania State University)
+# supervisor_link: https://tzpranto.github.io/
+# supervisor2: Dr Tanzima Hashem (BUET)
+# supervisor2_link: https://sites.google.com/site/tanzimahashem/
+---
+Developed a C compiler using Flex (lexical analyzer) and Bison (syntax parser) as a course work. It generates assembly code for Intel 8086 processors, supports recursive functions, and includes minimal code optimization.

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Mathane Detection with Sentinel-2 Using Attention Enhanced Deep Learning Network"
+date:   2024-04-11 22:21:59 +00:00
+image: /images/methane.jpg
+categories: ongoing-research
+author: "Sultanul Arifin"
+authors: "Rakib Ahsan, Sadik Hossain Shanto, <strong>Sultanul Arifin</strong>, Dr Tanzima Hashem (BUET)"
+# venue: "arXiv"
+# arxiv: https://arxiv.org/abs/2308.14737
+code: https://github.com/rab2807/thesis-repo
+# website: https://leonidk.github.io/fmb-plus
+supervisor: Dr Tanzima Hashem (BUET)
+supervisor_link: https://sites.google.com/site/tanzimahashem/
+# supervisor2: Dr Tanzima Hashem (BUET)
+# supervisor2_link: https://sites.google.com/site/tanzimahashem/
+---
+Methane is the second‑largest greenhouse gas contributor and its reduction can be a quick pathway to control global temperature rise. Our research aims to segment methane plumes with multispectral satellite imagery using a attention‑enhanced Unet network. We also incorporated Normalized Difference Methane Index (NDMI) to leverage methane’s spectral properties effectively.

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Addressing Adversarial Attacks in NIDS"
+date:   2024-09-01 22:21:59 +00:00
+image: /images/tikitaka.png
+categories: ongoing-research
+author: "Sultanul Arifin, Redwanul Karim"
+authors: "<strong>Sultanul Arifin</strong>, Redwanul Karim, Dr Md Shohrab Hossain (BUET)"
+# venue: "arXiv"
+# arxiv: https://arxiv.org/abs/2308.14737
+code: https://github.com/arifinnasif/addressing-adversarial-attacks-in-nids
+# website: https://leonidk.github.io/fmb-plus
+supervisor: Dr Md Shohrab Hossain (BUET)
+supervisor_link: https://mshohrabhossain.buet.ac.bd/
+---
+We are trying to propose an ensemble-based method for ML-based Intrusion Detection System (IDS) with a stochastic voting mechanism to enhance detection accuracy and resilience against adversarial attacks

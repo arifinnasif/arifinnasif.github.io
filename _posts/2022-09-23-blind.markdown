@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Smart Cane for the Visually Impaired"
+date:   2022-09-23 22:21:59 +00:00
+image: /images/blind.gif
+categories: project
+author: "Sultanul Arifin"
+authors: "<strong>Sultanul Arifin</strong>, Abu Nowshed Sakib, Kamruj Jaman Sheam"
+# venue: "arXiv"
+# arxiv: https://arxiv.org/abs/2308.14737
+# report: https://drive.google.com/file/d/1fBCY8X-y222cb55degXKZT0DCsi-IgmK/view?usp=drive_link
+code: https://github.com/arifinnasif/Blind-Man-s-Stick
+video: https://www.youtube.com/watch?v=7ePOXvDZJDY
+# website: https://tradespaceapp.netlify.app
+# supervisor: Md Toufikuzzaman (BUET, Pennsylvania State University)
+# supervisor_link: https://tzpranto.github.io/
+# supervisor2: Dr Tanzima Hashem (BUET)
+# supervisor2_link: https://sites.google.com/site/tanzimahashem/
+---
+Developed an obstacle detection and guiding tool for the visually impaired using Arduino Uno and HC-SR04 ultrasonic sensors. The processed data was transmitted via an HC-05 Bluetooth module to provide real-time audio feedback on a smartphone.

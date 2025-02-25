@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Mobile Imaging Solutions for Medical Diagnosis: Trends and Applications"
+date:   2025-02-01 22:21:59 +00:00
+image: /images/survey.png
+categories: completed-research
+author: "Sultanul Arifin"
+authors: "Syed Muhammad Ibne Zulfiker (University of Toronto), Dr Tanzima Hashem (BUET), Fariha Tabassum Islam, <strong>Sultanul Arifin</strong>, Aftarul Islam Monmoy, Nishat Anjum Bristy, Oaishi Faria, Priyeta Saha, Syeda Nahida Akter, Arpita Saha"
+venue: "EAI Endorsed Transactions (Under Review)"
+# arxiv: https://arxiv.org/abs/2308.14737
+# code: https://github.com/arifinnasif/deeplight
+# website: https://leonidk.github.io/fmb-plus
+supervisor: Dr Tanzima Hashem (BUET)
+supervisor_link: https://sites.google.com/site/tanzimahashem/
+# supervisor2: Dr Tanzima Hashem (BUET)
+# supervisor2_link: https://sites.google.com/site/tanzimahashem/
+---
+We conducted a comprehensive survey of mobile imaging solutions for medical diagnosis, analyzing state-of-the-art techniques, their advantages, limitations, and challenges across various healthcare applications, while identifying future research directions to enhance accessibility and affordability in healthcare.

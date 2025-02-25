@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Using GNN to predict Dengue Peak Occurrance in Bangladesh"
+date:   2024-02-11 22:21:59 +00:00
+image: /images/dengue.png
+categories: ongoing-research
+author: "Sultanul Arifin"
+authors: "Anik Islam Pantha, <strong>Sultanul Arifin</strong>, Yeasir Rayhan Prince (Purdue University), Dr Eunus Ali (BUET), Dr Tanzima Hashem (BUET)"
+# venue: "arXiv"
+# arxiv: https://arxiv.org/abs/2308.14737
+code: https://github.com/anikislam104/Dengue-Rate-Prediction
+# website: https://leonidk.github.io/fmb-plus
+supervisor: Dr Eunus Ali (BUET)
+supervisor_link: https://sites.google.com/site/mohammedeunusali/
+supervisor2: Dr Tanzima Hashem (BUET)
+supervisor2_link: https://sites.google.com/site/tanzimahashem/
+---
+Developeing a predictive model using Graph Neural Networks to forecast the timing, location, and intensity of dengue epidemics in Bangladesh, leveraging real-world data

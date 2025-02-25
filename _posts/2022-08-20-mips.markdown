@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "4 bits MIPS-like processor"
+date:   2022-08-20 22:21:59 +00:00
+image: /images/mips.jpg
+categories: project
+author: "Sultanul Arifin"
+authors: "<strong>Sultanul Arifin</strong>, Abu Nowshed Sakib, Utchchhwas Singha, Kamruj Jaman Sheam, Pritam Saha"
+# venue: "arXiv"
+# arxiv: https://arxiv.org/abs/2308.14737
+# report: https://drive.google.com/file/d/1fBCY8X-y222cb55degXKZT0DCsi-IgmK/view?usp=drive_link
+# code: https://github.com/arifinnasif/BookKeep
+video: https://youtu.be/-HJpUZ7sS64
+# website: https://tradespaceapp.netlify.app
+supervisor: Dr. Mohammad Saifur Rahman (BUET)
+supervisor_link: https://cse.buet.ac.bd/faculty/faculty_detail/mrahman
+# supervisor2: Dr Tanzima Hashem (BUET)
+# supervisor2_link: https://sites.google.com/site/tanzimahashem/
+---
+We were the first team at BUET to design and implement a fully functional 4-bit MIPS-like processor.

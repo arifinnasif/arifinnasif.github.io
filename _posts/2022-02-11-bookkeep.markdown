@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "BookKeep"
+date:   2022-02-11 22:21:59 +00:00
+image: /images/bookkeep.png
+categories: project
+author: "Sultanul Arifin"
+authors: "<strong>Sultanul Arifin</strong>, Asif Haider"
+# venue: "arXiv"
+# arxiv: https://arxiv.org/abs/2308.14737
+# report: https://drive.google.com/file/d/1fBCY8X-y222cb55degXKZT0DCsi-IgmK/view?usp=drive_link
+code: https://github.com/arifinnasif/BookKeep
+video: https://www.youtube.com/watch?v=g169lSMVZX8
+# website: https://tradespaceapp.netlify.app
+# supervisor: Md Toufikuzzaman (BUET, Pennsylvania State University)
+# supervisor_link: https://tzpranto.github.io/
+# supervisor2: Dr Tanzima Hashem (BUET)
+# supervisor2_link: https://sites.google.com/site/tanzimahashem/
+---
+BookKeep is an online book store platform, primarily focusing on buying and borrowing books online. We implement the important features of a Relational Database Management System (RDBMS) from scratch in this project. Technology stack includes Frontend: HTML5, CSS3, Javascript, JQuery, Bootstrap, Backend: Django (Python), Database: Oracle, SQL, PL/SQL and Other Tools: Git, Docker.
