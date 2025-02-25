@@ -5,7 +5,7 @@ date:   2025-02-01 22:21:59 +00:00
 image: /images/deeplight.png
 categories: completed-research
 author: "Sultanul Arifin"
-authors: "<strong>Sultanul Arifin</strong>, Abu Nowshed Sakib, Dr Tanzima Hashem (BUET)"
+authors: "<strong>Sultanul Arifin</strong>, Abu Nowshed Sakib, Yeasir Rayhan Prince (Purdue University), Dr Tanzima Hashem (BUET)"
 venue: "NeuroComputing, Elsevier (Under Review)"
 # arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/arifinnasif/deeplight
