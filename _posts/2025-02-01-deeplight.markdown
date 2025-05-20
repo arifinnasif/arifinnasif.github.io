@@ -6,7 +6,7 @@ image: /images/deeplight.png
 categories: completed-research
 author: "Sultanul Arifin"
 authors: "<strong>Sultanul Arifin</strong>, Abu Nowshed Sakib, Yeasir Rayhan Prince (Purdue University), Dr Tanzima Hashem (BUET)"
-venue: "NeuroComputing, Elsevier (Under Review)"
+venue: "IEEE TKDE (Under Review)"
 # arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/arifinnasif/deeplight
 # website: https://leonidk.github.io/fmb-plus
