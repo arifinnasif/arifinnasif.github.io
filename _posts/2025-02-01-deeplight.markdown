@@ -7,7 +7,7 @@ categories: completed-research
 author: "Sultanul Arifin"
 authors: "<strong>Sultanul Arifin</strong>, Abu Nowshed Sakib, Yeasir Rayhan Prince (Purdue University), Dr Tanzima Hashem (BUET)"
 venue: "Expert Systems with Applications - Elsevier (Under Review)"
-arxiv: https://arxiv.org/pdf/2508.07428
+arxiv: https://arxiv.org/abs/2508.07428
 code: https://github.com/arifinnasif/deeplight
 # website: https://leonidk.github.io/fmb-plus
 supervisor: Dr Tanzima Hashem (BUET)
