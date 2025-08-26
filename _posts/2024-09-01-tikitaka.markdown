@@ -9,7 +9,7 @@ authors: "<strong>Sultanul Arifin</strong>, Redwanul Karim, Dr Md Shohrab Hossai
 # venue: "arXiv"
 # arxiv: https://arxiv.org/abs/2308.14737
 report: https://drive.google.com/file/d/1N5abKGCsliIHYHyo_xnfh4vkLPEKFYFX/view?usp=sharing
-code: https://github.com/arifinnasif/addressing-adversarial-attacks-in-nids
+code: https://github.com/arifinnasif/adversarial_defenses_nids
 # website: https://leonidk.github.io/fmb-plus
 supervisor: Dr Md Shohrab Hossain (BUET)
 supervisor_link: https://mshohrabhossain.buet.ac.bd/
