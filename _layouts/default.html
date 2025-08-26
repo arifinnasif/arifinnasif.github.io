@@ -235,6 +235,9 @@
               <br>
               <b><em style="color: darkgreen;">{{post.venue}}</em></b>, {{ post.date | date: "%Y" }}
               <br>
+              {% if post.report %}
+              <a href="{{post.report}}">report</a> /
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
