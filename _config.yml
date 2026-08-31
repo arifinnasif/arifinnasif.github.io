@@ -9,7 +9,7 @@ name: Sultanul Arifin
 # description: the profile of an engineer, researcher and software developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/nasif-photo.png
+avatar: images/nasif-photo.webp
 
 #
 # Flags below are optional
@@ -91,3 +91,5 @@ exclude:
   - todo.txt
   - _temp/index.html
   - _temp/
+  - _optimize_images.sh
+  - _originals/

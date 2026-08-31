@@ -124,7 +124,7 @@
 
 <p> My undergraduate thesis focused on improving <b>Weather Forecasting with Deep Learning</b>, under the supervision of <a href="https://sites.google.com/site/tanzimahashem/">Dr. Tanzima Hashem (BUET)</a> and in collaboration with <a href="https://yeasirrayhanprince.github.io/">Yeasir Rayhan (Purdue University)</a>. </p>
               <p>
-                BTW, I use arch <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="20em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>
+                BTW, I use arch <img src="/images/arch.svg" width="20" height="20" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>
               </p>
               <p style="text-align:center">
                 
@@ -139,7 +139,11 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/nasif-photo.png">
+              <picture>
+                <source srcset="images/nasif-photo.webp" type="image/webp">
+                <img style="width:100%;max-width:100%" alt="profile photo" src="images/nasif-photo.jpg"
+                     width="640" height="640" decoding="async" fetchpriority="high">
+              </picture>
             </td>
           </tr>
         </table>
@@ -162,7 +166,11 @@
           {% if cat == 'ongoing-research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <picture>
+                <source srcset="/tn{{ post.image | split: '.' | first }}.webp" type="image/webp">
+                <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;"
+                     loading="lazy" decoding="async" />
+              </picture>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="color: darkblue;">{{post.title}}</h3>
@@ -218,7 +226,11 @@
           {% if cat == 'completed-research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <picture>
+                <source srcset="/tn{{ post.image | split: '.' | first }}.webp" type="image/webp">
+                <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;"
+                     loading="lazy" decoding="async" />
+              </picture>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="color: darkblue;">{{post.title}}</h3>
@@ -312,7 +324,11 @@
           {% if cat == 'project' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <picture>
+                <source srcset="/tn{{ post.image | split: '.' | first }}.webp" type="image/webp">
+                <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;"
+                     loading="lazy" decoding="async" />
+              </picture>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="color: darkblue;">{{post.title}}</h3>
@@ -505,7 +521,11 @@
           {% if cat != 'research' and cat != 'Intel' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <picture>
+                <source srcset="/tn{{ post.image | split: '.' | first }}.webp" type="image/webp">
+                <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;"
+                     loading="lazy" decoding="async" />
+              </picture>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
